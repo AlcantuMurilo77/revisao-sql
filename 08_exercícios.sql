@@ -1,0 +1,50 @@
+-- 01. Selecione todos os dados da tabela clientes
+-- 02. Liste os nomes e e-mails dos clientes
+-- 03. Mostre os clientes com mais de 30 anos
+-- 04. Mostre os clientes com idade igual a 25 anos
+-- 05. Liste os clientes com nome que começa com 'M'
+-- 06. Liste os clientes com e-mail terminando em 'gmail.com'
+-- 07. Liste os clientes ordenados por idade decrescente
+-- 08. Mostre os 3 clientes mais jovens
+-- 09. Conte quantos clientes existem
+-- 10. Qual a idade média dos clientes?
+-- 11. Liste todos os pedidos
+-- 12. Liste os pedidos com valor acima de 200
+-- 13. Mostre os pedidos feitos em março de 2024
+-- 14. Qual o valor total dos pedidos?
+-- 15. Qual o valor médio dos pedidos?
+-- 16. Mostre o pedido mais caro
+-- 17. Mostre o pedido mais barato
+-- 18. Mostre o nome dos clientes com seus respectivos pedidos
+-- 19. Mostre os clientes que fizeram pedidos
+-- 20. Mostre os clientes que não fizeram pedidos
+-- 21. Liste os nomes dos clientes com a soma total de seus pedidos
+-- 22. Liste os clientes que gastaram mais de 200 reais
+-- 23. Crie uma view chamada "pedidos_simples" com id, cliente e valor
+-- 24. Selecione todos os dados da view "pedidos_simples"
+-- 25. Liste o total de pedidos por cliente usando GROUP BY
+-- 26. Liste o total de pedidos por mês
+-- 27. Liste os clientes que fizeram mais de um pedido
+-- 28. Liste os clientes que gastaram entre 100 e 300 reais
+-- 29. Liste os pedidos ordenados do mais caro para o mais barato
+-- 30. Crie uma view "clientes_ativos" com clientes que têm pedidos
+-- 31. Liste os clientes da view "clientes_ativos"
+-- 32. Selecione os pedidos realizados por 'João Silva'
+-- 33. Liste os nomes e e-mails dos clientes com pedidos acima de 300
+-- 34. Conte quantos pedidos cada cliente fez
+-- 35. Liste os pedidos realizados no ano de 2024
+-- 36. Liste os pedidos realizados por clientes com mais de 30 anos
+-- 37. Mostre os pedidos com valor entre 100 e 400
+-- 38. Mostre os nomes dos clientes e a média de seus pedidos
+-- 39. Liste os clientes ordenados por total gasto (descendente)
+-- 40. Liste os clientes que gastaram menos que a média geral
+-- 41. Mostre os dados da tabela pedidos_detalhados
+-- 42. Mostre os nomes dos clientes com pedidos maiores que 300
+-- 43. Crie uma view chamada "resumo_clientes" com nome, total gasto e média
+-- 44. Liste os dados da view "resumo_clientes"
+-- 45. Mostre os clientes com total gasto maior que 500
+-- 46. Liste todos os pedidos e o nome dos seus respectivos clientes
+-- 47. Mostre o valor total de pedidos de março
+-- 48. Liste os clientes com pedidos feitos após fevereiro de 2024
+-- 49. Liste os nomes dos clientes e a quantidade de pedidos realizados
+-- 50. Liste todos os clientes com idade entre 20 e 35 anos
