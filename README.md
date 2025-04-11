@@ -25,3 +25,5 @@ Este repositório contém arquivos SQL com conteúdo didático para quem está a
 | 06_views.sql | Criação de VIEWS |
 | 07_permissoes.sql | Controle de usuários e permissões |
 | 08_exercicios.sql | +50 exercícios de fixação |
+| Material Complementar SQL.pdf | Documento com revisão dos comandos básicos de SQL |
+| Funções Agregadas SQL Revisão Geral.pdf | Documento com revisão das funções agregadas em SQL|
